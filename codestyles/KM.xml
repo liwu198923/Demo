@@ -4,6 +4,7 @@
   </XML>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="80" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
     </indentOptions>
